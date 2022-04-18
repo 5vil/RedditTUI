@@ -6,7 +6,7 @@ import os
 os.system('clear')
 
 #Basically used by the praw api to authenticate to reddit
-reddit = praw.Reddit(client_id='xxxxxxxxxxxxxxxxx', client_secret='xxxxxxxxxxxxxxxxxxxx', user_agent='xxxxxxxxxx')
+reddit = praw.Reddit(client_id='SM-xXY6ho0CGMIHP1nDv9g', client_secret='Q3uxDAEJfabCeyMbKz6ZaxlSmNtcSA', user_agent='webScraper')
 
 #Fetches and prints the title of the top 5 post in the whole of reddit
 
